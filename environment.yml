@@ -5,4 +5,3 @@ dependencies:
   - lxml
   - numpy
   - pandas
-  - python-datauri
